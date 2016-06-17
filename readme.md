@@ -1,6 +1,7 @@
 #Awesome WordPress Plugins
 
-Description here
+The title says it all.
+Here we're putting together an all encompassing collection of plugins and pertinent information related to WordPress which we believe will help you to become a pro WordPress developer.
 
 
 ## Table of Contents
