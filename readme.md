@@ -3,6 +3,8 @@
 The title says it all.
 Here we're putting together an all encompassing collection of plugins and pertinent information related to WordPress which we believe will help you to become a pro WordPress developer.
 
+The Plugins which are cited here will have various features and uses, scroll around a little bit to find what works for you.
+
 
 ## Table of Contents
 
