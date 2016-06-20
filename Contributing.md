@@ -1,6 +1,6 @@
 # Contribution Guidelines
 
-Please note that this project is released with a [Contributor Code of Conduct](code-of-conduct.md). By participating in this project you agree to abide by its terms.
+Please note that this repository is released and made publicly available for all to use. However the use will require a certain Code of Conduct which we will talk about further.
 
 ## Table of Contents
 
