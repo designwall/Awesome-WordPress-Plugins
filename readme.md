@@ -5,6 +5,10 @@ Here we're putting together an all encompassing collection of plugins and pertin
 
 The Plugins which are cited here will have various features and uses, scroll around a little bit to find what works for you.
 
+We hope that with this list you'll have an amazing resource which will help guide you in your WordPress development career.
+
+The plugins listed will cover every feature of WordPress. Not
+
 
 ## Table of Contents
 
