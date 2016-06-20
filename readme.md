@@ -1,13 +1,13 @@
 #Awesome WordPress Plugins [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 The title says it all.
-Here we're putting together an all encompassing collection of plugins and pertinent information related to WordPress which we believe will help you to become a pro WordPress developer.
+Here we're putting together an all **encompassing collection** of **plugins** and **pertinent information** related to WordPress which we believe will help you to become a **Professional WordPress Developer**.
 
-The Plugins which are cited here will have various features and uses, scroll around a little bit to find what works for you.
+The Plugins which are cited here will have various features and uses, scroll down a bit to find what you need or what works for you.
 
-We hope that with this list you'll have an amazing resource which will help guide you in your WordPress development career.
+We hope that with this list you'll have an **amazing resource** which will help *guide you* in your WordPress development career.
 
-The plugins listed will cover every feature of WordPress.
+The plugins listed will cover every feature of WordPress. This is just the beginning because we're going to continue working on this for **as long as WordPress is around**, which we *suspect will be quite some time*.
 
 
 ## Table of Contents
