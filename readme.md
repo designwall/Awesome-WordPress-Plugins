@@ -7,7 +7,7 @@ The Plugins which are cited here will have various features and uses, scroll aro
 
 We hope that with this list you'll have an amazing resource which will help guide you in your WordPress development career.
 
-The plugins listed will cover every feature of WordPress. Not
+The plugins listed will cover every feature of WordPress.
 
 
 ## Table of Contents
