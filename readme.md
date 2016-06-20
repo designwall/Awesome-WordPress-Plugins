@@ -1,4 +1,4 @@
-#Awesome WordPress Plugins
+#Awesome WordPress Plugins [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 The title says it all.
 Here we're putting together an all encompassing collection of plugins and pertinent information related to WordPress which we believe will help you to become a pro WordPress developer.
