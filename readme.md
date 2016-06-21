@@ -10,7 +10,9 @@ We hope that with this list you'll have an **amazing resource** which will help 
 The plugins listed will cover every feature of WordPress. This is just the beginning because we're going to continue working on this for **as long as WordPress is around**, which we *suspect will be quite some time*.
 
 Brought to your by your family at
+
 <http://www.DesignWall.com>
+
 **The Home of WordPress**
 
 
