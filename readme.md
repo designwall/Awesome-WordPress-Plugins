@@ -5,7 +5,7 @@ Here we're putting together an all **encompassing collection** of **plugins** an
 
 The Plugins which are cited here will have various features and uses, scroll down a bit to find what you need or what works for you.
 
-We hope that with this list you'll have an **amazing resource** which will help *guide you* in your WordPress development career.
+We hope that with this list you'll have an **amazing resource** which will help *guide you* in your WordPress development career. More than likely, you won't need to use them all, but you'll probably need some if not several of them depending on what time of site you're managing.
 
 The plugins listed will cover every feature of WordPress. This is just the beginning because we're going to continue working on this for **as long as WordPress is around**, which we *suspect will be quite some time*.
 
