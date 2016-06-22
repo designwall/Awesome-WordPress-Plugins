@@ -3,9 +3,9 @@
 The title says it all.
 Here we're putting together an all **encompassing collection** of **plugins** and **pertinent information** related to WordPress which we believe will help you to become a **Professional WordPress Developer**.
 
-The Plugins which are cited here will have various features and uses, scroll down a bit to find what you need or what works for you.
+The Plugins which are cited here will have various features and uses, scroll down a bit in order to search and find what you're looking for.
 
-We hope that with this list you'll have an **amazing resource** which will help *guide you* in your WordPress development career. More than likely, you won't need to use them all, but you'll probably need some if not several of them depending on what time of site you're managing.
+We hope that with this list you'll have an **amazing resource** which will help *guide you* in your WordPress development career. More than likely, you won't need to use them all, but you'll probably need some if not several of the plugins depending on what type of site you're working on.
 
 The plugins listed will cover every feature of WordPress. This is just the beginning because we're going to continue working on this for **as long as WordPress is around**, which we *suspect will be quite some time*.
 
@@ -14,7 +14,6 @@ Brought to your by your family here at:
 <http://www.DesignWall.com>
 
 **The Home of WordPress**
-
 
 ## Table of Contents
 
