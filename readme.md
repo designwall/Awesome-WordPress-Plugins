@@ -14,6 +14,7 @@ Brought to your by your family here at:
 <http://www.DesignWall.com>
 
 **The Home of WordPress**
+We're working on some more stuff right now as well so make sure you star the repo to stay in tune for more. =)
 
 ## Table of Contents
 
