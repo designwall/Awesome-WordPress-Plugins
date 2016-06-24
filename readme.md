@@ -15,6 +15,8 @@ Brought to your by your family here at:
 
 **The Home of WordPress**
 We're working on some more stuff right now as well so make sure you star the repo to stay in tune for more. =)
+If you'd like to know more about the people who are putting this together you can [learn more here](https://www.youtube.com/watch?v=Rv0j14BkQu4)
+
 
 ## Table of Contents
 
