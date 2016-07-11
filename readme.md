@@ -274,4 +274,4 @@ It’s powerful enough for corporate sites, yet simple for blogs
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [DesignWall](https://www.designwall.com) has waived all copyright and related or neighboring rights to this work.
+To all extent possible under law, [DesignWall](https://www.designwall.com) has waived all copyright and related or neighboring rights to this work and publishes it free for public use.
