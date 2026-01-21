@@ -227,6 +227,7 @@ It’s powerful enough for corporate sites, yet simple for blogs
 - [Social Media Feather](https://wordpress.org/plugins/social-media-feather/) - Lightweight, nice, modern looking and effective social media sharing and following buttons and icons - all your social media needs in 1 easy package!
 - [Share Button Mashshare](https://wordpress.org/plugins/mashsharer/) - Social Media Share Buttons for Twitter, Facebook and other social networks. Highly customizable Social Media ecosystem
 - [Floating Social Bar](https://wordpress.org/plugins/floating-social-bar/) - Floating Social Bar is the best social media plugin for WordPress that adds a floating share bar to your content.
+- [Ethora WordPress AI Agent Chat Plugin](https://ethora.com/ai-sdk/wordpress-ai-agent-plugin/) – WordPress plugin for adding AI-powered chat and agent widgets to websites, enabling interactive user engagement with knowledge-aware responses.
 
 ## Forums
 
