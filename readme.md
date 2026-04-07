@@ -1,4 +1,5 @@
 #Awesome WordPress Plugins [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+- [Alt Audit](https://altaudit.com) — Bulk alt text manager and image SEO plugin for WordPress. Scans media library, generates WCAG-compliant alt text using AI or free rule-based templates. Free on WordPress.org.
 
 The title says it all.
 Here we're putting together an all **encompassing collection** of **plugins** and **pertinent information** related to WordPress which we believe will help you to become a **Professional WordPress Developer**.
