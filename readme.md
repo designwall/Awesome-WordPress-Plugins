@@ -33,6 +33,7 @@ If you'd like to know more about the people who are putting this together you ca
 - [forums](#forums)
 - [Newsletters](#newsletters)
 - [Categories](#categories)
+- [Maps and Store Locator](#maps-and-store-locator)
 
 ## Gallery
 
@@ -269,6 +270,11 @@ It’s powerful enough for corporate sites, yet simple for blogs
 - [Category Sticky Post](https://wordpress.org/plugins/category-sticky-post/) - Mark a post to be placed at the top of a specified category archive. It's sticky posts specifically for categories.
 - [Category Color](https://wordpress.org/plugins/category-color/) - Easily set a custom color per Post Category and use the colors in your WordPress templates to spice up your theme.
 
+
+## Maps and Store Locator
+*For physical stores, places, and journeys*
+
+- [MapifyPro](https://mapifypro.com/) - The perfect WordPress store locator plugin to help your customers find your products. Dozens of features, unlimited locations and maps, no Google API Key necessary.
 
 ## License
 
