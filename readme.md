@@ -141,6 +141,7 @@ If you'd like to know more about the people who are putting this together you ca
 - [SEO Wizard](https://wordpress.org/plugins/seo-wizard/) - SEO Wizard is an all-in-one seo solution. Post/page analysis, social media, link juggernaut, auto linking, 404 monitor, redirects, robots.txt & ht.
 - []() -
 - [SEO WordPress](https://wordpress.org/plugins/seo-wordpress/) - SEO WordPress Plugin by Mervin Praison is a Powerfull Plugin which has many SEO Features. Google Authorship and Google Analytics Integration.
+- [WordPress GEO Optimizer](https://github.com/henu-wang/wordpress-geo-optimizer) - Plugin for Generative Engine Optimization (GEO) — manages AI crawler access via robots.txt, auto-generates llms.txt, and injects JSON-LD structured data for AI search engines like ChatGPT, Perplexity, and Gemini.
 
 ## Multi-Languages
 
