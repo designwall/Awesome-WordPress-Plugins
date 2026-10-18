@@ -119,6 +119,7 @@ If you'd like to know more about the people who are putting this together you ca
 - [Admin Menu Editor](https://wordpress.org/plugins/admin-menu-editor/) - Lets you edit the WordPress admin menu. You can re-order, hide or rename menus, add custom menus and more.
 - [Nav Menu Roles](https://wordpress.org/plugins/nav-menu-roles/) - Hide custom menu items based on user roles. PLEASE READ THE FAQ IF YOU ARE NOT SEEING THE SETTINGS.
 - [Admin Menus Fixed](https://wordpress.org/plugins/admin-menus-fixed/) - Ozh' Admin Drop Down Menu + WordPress Toolbar & Admin Menu Fixed to the Top and Side of the Admin Screens. Less Scrolling!
+- [Refined Admin Dashboard](https://wordpress.org/plugins/doubleyoupi-refined-admin-dashboard/) - Redraws every WordPress admin screen in dark or light, with WordPress's own components, and includes a menu editor to reorder, move, hide or promote any entry without code. Free, GPLv2.
 
 ## SEO
 
