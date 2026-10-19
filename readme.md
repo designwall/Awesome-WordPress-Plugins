@@ -33,6 +33,7 @@ If you'd like to know more about the people who are putting this together you ca
 - [forums](#forums)
 - [Newsletters](#newsletters)
 - [Categories](#categories)
+- [Privacy](#privacy)
 
 ## Gallery
 
@@ -270,6 +271,10 @@ It’s powerful enough for corporate sites, yet simple for blogs
 - [Category Sticky Post](https://wordpress.org/plugins/category-sticky-post/) - Mark a post to be placed at the top of a specified category archive. It's sticky posts specifically for categories.
 - [Category Color](https://wordpress.org/plugins/category-color/) - Easily set a custom color per Post Category and use the colors in your WordPress templates to spice up your theme.
 
+
+## Privacy
+
+- [Arqam360 Cookie Consent Banner](https://wordpress.org/plugins/arqam360-consent-privacy-pdplgdpr/) - Cookie consent banner in Arabic (RTL) and English with Google Consent Mode v2, for sites under Saudi PDPL, UAE PDPL and GDPR.
 
 ## License
 
