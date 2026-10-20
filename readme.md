@@ -141,6 +141,7 @@ If you'd like to know more about the people who are putting this together you ca
 - [SEO Wizard](https://wordpress.org/plugins/seo-wizard/) - SEO Wizard is an all-in-one seo solution. Post/page analysis, social media, link juggernaut, auto linking, 404 monitor, redirects, robots.txt & ht.
 - []() -
 - [SEO WordPress](https://wordpress.org/plugins/seo-wordpress/) - SEO WordPress Plugin by Mervin Praison is a Powerfull Plugin which has many SEO Features. Google Authorship and Google Analytics Integration.
+- [Seonix](https://wordpress.org/plugins/seonix/) - Free plugin that connects a WordPress site to Seonix, which researches keywords, writes SEO articles in 50+ languages and publishes them to the site on a schedule.
 
 ## Multi-Languages
 
