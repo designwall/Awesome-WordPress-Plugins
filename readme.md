@@ -141,6 +141,7 @@ If you'd like to know more about the people who are putting this together you ca
 - [SEO Wizard](https://wordpress.org/plugins/seo-wizard/) - SEO Wizard is an all-in-one seo solution. Post/page analysis, social media, link juggernaut, auto linking, 404 monitor, redirects, robots.txt & ht.
 - []() -
 - [SEO WordPress](https://wordpress.org/plugins/seo-wordpress/) - SEO WordPress Plugin by Mervin Praison is a Powerfull Plugin which has many SEO Features. Google Authorship and Google Analytics Integration.
+- [Mailwick Site Audit](https://wordpress.org/plugins/mailwick-site-audit/) - Free site health audit in the dashboard: SPF and DMARC records, SSL padlock, mixed content, pending updates, phone view and contact email, each fault explained in plain English. GPLv2, no account.
 
 ## Multi-Languages
 
