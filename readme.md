@@ -192,6 +192,7 @@ It’s powerful enough for corporate sites, yet simple for blogs
 - [SOCIAL COUPON FOR WORDPRESS](http://codecanyon.net/item/social-coupon-for-wordpress/3417466?ref=WPExplorer) - Social Coupon for WordPress is a WooCommerce extension that allows you to easily add a social coupon system to your site that allows users to get instant discounts for sharing your pages. Social Coupon makes it super easy for you to gain thousands of new fans and followers for your brand, and increase your social media traffic. More shares = more traffic = more $$$$
 - [Woocommerce SEO](http://codecanyon.net/item/woocommerce-seo/3881769?ref=WPExplorer) - The Woocommerce SEO plugins makes a numbers of additions and improvements to Woocommerce to make getting that elusive number one position little easier.
 - [Product Countdown WordPress Plugin](http://codecanyon.net/item/product-countdown-wordpress-plugin/4929462?ref=WPExplorer) - The Product Countdown WordPress Plugin is the most powerful scarcity plugin ever created for WooCommerce. With just a few clicks you can create scarcity-based countdown-timers when a WooCommerce product is on sale.
+- [WP License Manager](https://github.com/thisisfaizi/wp-license-manager) - Self-hosted license server with Ed25519-signed keys and offline verification.
 
 ## Forms
 
