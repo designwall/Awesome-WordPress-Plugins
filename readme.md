@@ -141,6 +141,7 @@ If you'd like to know more about the people who are putting this together you ca
 - [SEO Wizard](https://wordpress.org/plugins/seo-wizard/) - SEO Wizard is an all-in-one seo solution. Post/page analysis, social media, link juggernaut, auto linking, 404 monitor, redirects, robots.txt & ht.
 - []() -
 - [SEO WordPress](https://wordpress.org/plugins/seo-wordpress/) - SEO WordPress Plugin by Mervin Praison is a Powerfull Plugin which has many SEO Features. Google Authorship and Google Analytics Integration.
+- [FactDesk](https://wordpress.org/plugins/factdesk/) - Read-only MCP server that lets AI assistants search and read your public pages, posts and WooCommerce products, while hiding drafts, private and noindex content. Free, no API keys.
 
 ## Multi-Languages
 
