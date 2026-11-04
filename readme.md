@@ -160,6 +160,7 @@ It’s powerful enough for corporate sites, yet simple for blogs
 - [Multilanguage](https://wordpress.org/plugins/multilanguage/) - This plugin allows you to create content on a WordPress site in different languages.
 - [WPGlobus](https://wordpress.org/plugins/wpglobus/) - Multilingual / Globalization: URL-based multilanguage; easy translation interface, compatible with Yoast SEO, All in One SEO Pack and ACF!
 - [MultilingualPress](https://wordpress.org/plugins/multilingual-press/) - Create a fast translation network on WordPress multisite.
+- [Arabic to Latin](https://wordpress.org/plugins/arabic-to-lat/) - Turns Arabic, Persian and Urdu post, product and term slugs into readable Latin letters, with 301 redirects for URLs that already exist.
 
 ## Ads
 
