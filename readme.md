@@ -202,6 +202,7 @@ It’s powerful enough for corporate sites, yet simple for blogs
 - [Formidable Pro](https://formidablepro.com/) - Formidable Pro is quickly becoming a popular choice among WordPress users and developers. It allows you to quickly create beautiful contact forms and comes with all the goodies you would need from a premium form plugin.
 - [Contact Form 7](https://wordpress.org/plugins/contact-form-7/) - Just another contact form plugin. Simple but flexible.
 - [Fast Secure Contact Form](https://wordpress.org/plugins/si-contact-form/) - An easy and powerful form builder that lets your visitors send you email. Blocks all automated spammers. No templates to mess with.
+- [SubmitDock](https://wordpress.org/plugins/submitdock/) - Free headless form backend: static, React or Next.js sites post forms to a REST endpoint, and submissions are saved in WordPress and emailed.
 
 ## Social Media
 
