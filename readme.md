@@ -271,6 +271,11 @@ It’s powerful enough for corporate sites, yet simple for blogs
 - [Category Color](https://wordpress.org/plugins/category-color/) - Easily set a custom color per Post Category and use the colors in your WordPress templates to spice up your theme.
 
 
+## Developer Tools
+
+- [Bright Labs Compatibility Scanner for PHP](https://wordpress.org/plugins/brightlabs-compatibility-scanner/) - Free WordPress plugin that scans every plugin and theme for code removed or deprecated in PHP 8.2 to 8.5, before your host upgrades PHP.
+
+
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
