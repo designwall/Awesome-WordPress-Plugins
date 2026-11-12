@@ -271,6 +271,11 @@ It’s powerful enough for corporate sites, yet simple for blogs
 - [Category Color](https://wordpress.org/plugins/category-color/) - Easily set a custom color per Post Category and use the colors in your WordPress templates to spice up your theme.
 
 
+## Events
+
+- [RecurKit](https://wordpress.org/plugins/recurkit/) - Create a weekly event once in the free The Events Calendar and RecurKit adds the rest of the series as ordinary events.
+
+
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
