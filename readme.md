@@ -32,6 +32,7 @@ If you'd like to know more about the people who are putting this together you ca
 - [Media Social](#media-social)
 - [forums](#forums)
 - [Newsletters](#newsletters)
+- [Security](#security)
 - [Categories](#categories)
 
 ## Gallery
@@ -254,6 +255,10 @@ It’s powerful enough for corporate sites, yet simple for blogs
 - [Sendy Widget Pro](http://codecanyon.net/item/sendy-widget-pro/6215362?ref=promag) - This plugin allows you to add user’s to Sendy list from your WordPress website.
 - [WP PopUp Revolution-Wordpress List Building Plugin](http://codecanyon.net/item/wp-popup-revolutionwordpress-list-building-plugin/6427439?ref=promag) - WP Popup Revolution is equipped with numbers of beautifully designed popup templates that entices your visitors to subscribe in your email list, GUARANTEED! Increase your email subscription rate by 210% or more – Quickly and easily with new wordpress plugin “WP Popup Revolution.”
 - [GoodNews! – newsletter and autoresponder manager](http://codecanyon.net/item/goodnews-newsletter-and-autoresponder-manager/4826368) - GoodNews allows you to get leads, convert them into paying customers, and do more business with them than ever, by communicating with them regularly through newsletter broadcasts and fully-automated autoresponder campaigns.
+
+## Security
+
+- [Ensomedia Security](https://wordpress.org/plugins/ensomedia-security/) - Free malware scanner with WordPress.org checksum checks, login limits, 2FA with passkeys and an optional local firewall. No account needed.
 
 ## Categories
 
